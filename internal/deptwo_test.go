@@ -1,4 +1,4 @@
-package deptwo
+package internal
 
 import (
 	"testing"
