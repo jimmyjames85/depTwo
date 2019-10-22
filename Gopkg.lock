@@ -2,12 +2,11 @@
 
 
 [[projects]]
-  branch = "master"
-  digest = "1:bf58c23ca9d56bef85bf354d8081a3db7ddca808299d7d7e9bf0c24dbb4ebfa7"
+  digest = "1:43211f37cfe8273a38df6227d39f49a171011f227a1702a83ced131063cac115"
   name = "github.com/jimmyjames85/depOne"
   packages = ["."]
   pruneopts = "UT"
-  revision = "fbf5aa8dbde49c3d0d07e51f73d0baeafab9135c"
+  revision = "16866712b59aa0150c94eb77a94150322c13fbef"
 
 [solve-meta]
   analyzer-name = "dep"
